@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Анализ стандартных интерфейсов homework 15.02.2023", "Анализ стандартных интерфейсов homework 15.02.2023.csproj", "{F1116066-0931-412A-91E9-55D0BBEC6D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1116066-0931-412A-91E9-55D0BBEC6D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1116066-0931-412A-91E9-55D0BBEC6D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1116066-0931-412A-91E9-55D0BBEC6D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1116066-0931-412A-91E9-55D0BBEC6D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F08357-BB47-4190-8DD2-8648C2062BBD}
+	EndGlobalSection
+EndGlobal
